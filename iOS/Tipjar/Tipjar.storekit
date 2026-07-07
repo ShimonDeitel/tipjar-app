@@ -1,0 +1,42 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "Tipjar Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "2",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Per-job breakdown with weekly and monthly tip trend charts",
+              "displayName": "Tipjar Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.tipsledger.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Tipjar Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
